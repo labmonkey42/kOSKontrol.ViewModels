@@ -1,2 +1,2 @@
 # kOSKontrol.ViewModels
-Core ViewModels for kOSKontrol
+Core ViewModel infrastructure for kOSKontrol
